@@ -1,10 +1,6 @@
 package com.educandoweb.course.config;
 
-import com.educandoweb.course.entities.Category;
-import com.educandoweb.course.entities.Order;
-import com.educandoweb.course.entities.OrderItem;
-import com.educandoweb.course.entities.Product;
-import com.educandoweb.course.entities.User;
+import com.educandoweb.course.entities.*;
 import com.educandoweb.course.entities.enums.OrderStatus;
 import com.educandoweb.course.repositories.*;
 
